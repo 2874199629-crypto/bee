@@ -190,4 +190,5 @@ App({
   globalData: {
     isConnected: true
   }
+  console.log("你好，顾客");
 })
